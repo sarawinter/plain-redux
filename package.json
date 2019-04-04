@@ -1,0 +1,14 @@
+{
+  "name": "plain-redux",
+  "version": "1.0.0",
+  "description": "plain redux",
+  "main": "plain-redux.js",
+  "scripts": {
+    "test": "test-redux"
+  },
+  "author": "Sara Winter",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
